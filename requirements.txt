@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+requests
+folium
+streamlit-folium
+mistralai
+python-dotenv
